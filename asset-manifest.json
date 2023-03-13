@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/REACT/static/css/main.9d98b88d.css",
-    "main.js": "/REACT/static/js/main.6ec6eeef.js",
+    "main.css": "/REACT/static/css/main.295d8a1f.css",
+    "main.js": "/REACT/static/js/main.c3611642.js",
     "static/js/787.2843ca88.chunk.js": "/REACT/static/js/787.2843ca88.chunk.js",
+    "static/media/Fenrir.png": "/REACT/static/media/Fenrir.b2b331df5e5e686b7bb1.png",
     "index.html": "/REACT/index.html",
-    "main.9d98b88d.css.map": "/REACT/static/css/main.9d98b88d.css.map",
-    "main.6ec6eeef.js.map": "/REACT/static/js/main.6ec6eeef.js.map",
+    "main.295d8a1f.css.map": "/REACT/static/css/main.295d8a1f.css.map",
+    "main.c3611642.js.map": "/REACT/static/js/main.c3611642.js.map",
     "787.2843ca88.chunk.js.map": "/REACT/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d98b88d.css",
-    "static/js/main.6ec6eeef.js"
+    "static/css/main.295d8a1f.css",
+    "static/js/main.c3611642.js"
   ]
 }
